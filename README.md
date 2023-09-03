@@ -16,3 +16,10 @@ en esta tarea nos plantearemos las siguientes pereguntas: ¿Qué son las ciencia
 <img src="https://github.com/RODRIGO-APOLINAR/informatica/blob/main/im%C3%A1genes/cuestionario%202.jpg?raw=true" alt="cuestionario 2" width="PORCENTAJE DE ANCHO %100"/>
 <img src="https://github.com/RODRIGO-APOLINAR/informatica/blob/main/im%C3%A1genes/cuestionario%203.jpg?raw=true" alt="cuestionario 3" width="PORCENTAJE DE ANCHO %100"/>
 
+
+
+
+https://github.com/RODRIGO-APOLINAR/informatica/raw/main/videos/tarea_1.2.mp4
+
+<vid src="https://github.com/RODRIGO-APOLINAR/informatica/raw/main/videos/tarea_1.2.mp4" alt="tarea_1.2" width="PORCENTAJE DE ANCHO %100"/>
+

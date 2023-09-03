@@ -1,6 +1,6 @@
 #PRACTICA 1.3
 collage
-este collage lo realice con ayuda digital,aquie identificamos partes de una computadora como la ram,la tarjeta madre y los procesadores
+esta tarea la realice con ayuda digital,aquie identificamos partes de una computadora como la ram,la tarjeta madre y los procesadores
 
 <img src="https://github.com/RODRIGO-APOLINAR/informatica/blob/main/im%C3%A1genes/collage.png?raw=true" alt="collage" width="PORCENTAJE DE ANCHO %100"/>
 

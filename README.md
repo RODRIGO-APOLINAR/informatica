@@ -1,5 +1,9 @@
 # informatica
 
+(x+y≥800)^(0.21x-0.3y≤0)^(0.03x-0.01y≥0)^(x≥0)^(y≥0)
+
+
+
 #practica 1.1
 La guerra secreta de Alan Turing
 
